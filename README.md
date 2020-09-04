@@ -1,1 +1,5 @@
-# algorithms-practice
+# Algorithms & Data Structures
+Practicing Java Algorithms & Data Structures
+
+## Task List
+1. Recursion and Backtracking
