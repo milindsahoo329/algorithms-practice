@@ -13,6 +13,8 @@ A recursive function should have the following properties so that it does not re
 Recursively print reverse of a string
 Recursively reverse a character array without extra memory
 Recursively find out result of a number raised to certain power
+Recursive code for merging two linked lists
+Recursive code for finding unique binary trees
 ```
 
 ## Recurrence Relations
@@ -29,6 +31,7 @@ Once we figure out the above two elements, to implement a recursive function we 
 ```java
 Recursively print pascals triangle
 Iteratively print pascals triangle
+Recursive code for Kth Grammmar
 ```
 
 ## Memoization
