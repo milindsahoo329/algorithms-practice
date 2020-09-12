@@ -18,3 +18,14 @@ Reverse a Linked List
 Odd Even Nodes Grouping in Singly Linked List
 Check if linked list is Palindrome
 ```
+
+## Doubly Linked Lists
+
+Designing a doubly linked list
+
+
+### Tasks done
+
+```java
+Design Doubly Linked List
+```
