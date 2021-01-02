@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c86788db-7953-4e2f-a928-8f6ee0fcb338" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/january2021/src/com/company/week1/checkArrayFormation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/january2021" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -49,10 +48,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1609504692640">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1609569782582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609504692640" />
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609569782582" />
     <state x="209" y="33" key="new project wizard" timestamp="1609504694323">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

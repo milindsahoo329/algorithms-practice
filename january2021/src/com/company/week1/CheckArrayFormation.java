@@ -2,7 +2,7 @@ package com.company.week1;
 
 import java.util.Arrays;
 
-public class checkArrayFormation {
+public class CheckArrayFormation {
 
     public static int[] arr = {86,87};
 
